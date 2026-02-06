@@ -1,6 +1,6 @@
 # Hi There, I'm Guilherme  
 
-💼 Trabalho há 1 ano como Análise de Dados na **Cesari**  
+💼 Trabalho como Back-end no **Mercado Livre**  
 🎓 Técnologo em **Análise e Desenvolvimento de Sistemas**  
 📚 Cursando Pós-Graduação em **Arquitetura de Software**  
 
